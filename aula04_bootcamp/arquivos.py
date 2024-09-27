@@ -1,4 +1,4 @@
-import csv 
+import csv
 
 caminho_do_arquivo: str = "exemplo.csv"
 

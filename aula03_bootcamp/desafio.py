@@ -8,7 +8,7 @@ while nome_valido is not True:
 
         if len(nome) == 0:
             raise ValueError("O nome não pode estar vazio.")
-        #Verifica se há números no nome
+        # Verifica se há números no nome
         elif any(char.isdigit() for char in nome):
             raise ValueError("O nome não deve conter números.")
         else:
@@ -39,5 +39,6 @@ while bonus_valido is not True:
 
 bonus_recebido = 1000 + salario * bonus
 
-print(f"{nome}, seu salário é R${salario:.2f} e seu bônus final é R${bonus_recebido:.2f}.")
-
+print(
+    f"{nome}, seu salário é R${salario:.2f} e seu bônus final é R${bonus_recebido:.2f}."
+)
