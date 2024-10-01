@@ -1,0 +1,6 @@
+2024-09-30 23:25:18.330 | INFO     | __main__:soma:6 - 2
+2024-09-30 23:38:44.941 | CRITICAL | __main__:soma:11 - voce tem que digitar valores corretos
+2024-09-30 23:38:44.941 | INFO     | __main__:soma:8 - voce digitou valores corretos, parabens 9
+2024-09-30 23:38:44.941 | INFO     | __main__:soma:8 - voce digitou valores corretos, parabens 5
+2024-09-30 23:42:07.315 | CRITICAL | __main__:soma:11 - voce tem que digitar valores corretos
+2024-09-30T23:45:08.439321-0300 CRITICAL voce tem que digitar valores corretos exemplo_00.py
