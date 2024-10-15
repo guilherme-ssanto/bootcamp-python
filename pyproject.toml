@@ -13,6 +13,7 @@ pandas = "^2.2.3"
 fastparquet = "^2024.5.0"
 loguru = "^0.7.2"
 sentry-sdk = "^2.14.0"
+schedule = "^1.2.2"
 
 
 [build-system]
